@@ -2,7 +2,7 @@
 
 I'm HaoMing, A fullStack developer.
 
-Contact me at [GitHub](https://github.com/yue1123) | [Email](mailto:2572468699@qq.com)
+Contact me at [GitHub](https://github.com/ThinkingDev/ThinkingDev) | [Email](haoming960111@gmail.com)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> Skills
